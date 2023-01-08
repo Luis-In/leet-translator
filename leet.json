@@ -1,0 +1,146 @@
+[
+    {
+        "id": "a",
+        "translation": ["4", "@", "^", "Д"]
+    },
+    {
+        "id": "b",
+        "translation": ["I3", "8", "13", "|3", "ß", "!3"]
+    },
+    {
+        "id": "c",
+        "translation": ["[", "¢", "{", "<", "(", "©"]
+    },
+    {
+        "id": "d",
+        "translation": ["|)", "[)", "I>", "cl", "|}", "|]"]
+    },
+    {
+        "id": "e",
+        "translation": ["3", "£", "€", "ë"]
+    },
+    {
+        "id": "f",
+        "translation": ["|=", "ƒ", "|#", "/="]
+    },
+    {
+        "id": "g",
+        "translation": ["&", "6", "9", "[,", "{,", "<-", "(."]
+    },
+    {
+        "id": "h",
+        "translation": ["#", "/-/", "|-|", "|~|", "!-!"]
+    },
+    {
+        "id": "i",
+        "translation": ["1", "|", "!"]
+    }, 
+    {
+        "id": "j",
+        "translation":  [",_|", "_|", "._|", "._]", "_]", ",_]"]
+    },
+    {
+        "id": "k",
+        "translation": [">|", "|<", "/<", "1<", "|c", "|(", "|{"]
+    },
+    {
+        "id": "l",
+        "translation": ["7", "|_", "|"]         
+    },
+    {
+        "id": "m",
+        "translation": ["^^", "|V|", "nn", "1^1"]
+    },
+    {
+        "id": "n",
+        "translation": ["|V", "/V", "И", "ท"]
+    },
+    {
+        "id": "o",
+        "translation": ["0", "Q", "()", "[]", "p", "<>", "Ø"]
+    },
+    {
+        "id": "p",
+        "translation": ["|*", "|o", "|º","|^", "|°"]
+    },
+    {
+        "id": "q",
+        "translation": ["(_,)", "()_", "0_", "<|"]
+    },
+    {
+        "id": "r",
+        "translation": ["I2", "|?", "/2", "lz", "®", "Я", "|2"] 
+    },
+    {
+        "id": "s",
+        "translation": ["5", "$", "§"]
+    },
+    {
+        "id": "t",
+        "translation": ["+", "†"] 
+    },
+    {
+        "id": "u",
+        "translation": ["v", "µ", "บ"] 
+    },
+    {
+        "id": "v",
+        "translation": ["|/"]
+    },
+    {
+        "id": "w",
+        "translation": ["VV", "'//", "Ш", "Щ", "uu", "v²", "พ"]
+    },
+    {
+        "id": "x",
+        "translation": ["><", "Ж", "×"]
+    },
+    {
+        "id": "y",
+        "translation": ["Ч", "¥", "`/"]
+    },
+    {
+        "id": "z",
+        "translation": ["%", ">_", "7_"]
+    },
+    {
+        "id": "1",
+        "translation": ["L", "|"]
+    },
+    {
+        "id": "2",
+        "translation": ["R", "Z"]
+    },
+    {
+        "id": "3",
+        "translation": ["E"]
+    },
+    {
+        "id": "4",
+        "translation": ["A"]
+    },
+    {
+        "id": "5",
+        "translation": ["S"]
+    },
+    {
+        "id": "6",
+        "translation": ["b"]
+    },
+    {
+        "id": "7",
+        "translation": ["T", "L"]
+    },
+    {
+        "id": "8",
+        "translation": ["B"]
+    },
+    {
+        "id": "9",
+        "translation": ["g", "q"]
+    },
+    {
+        "id": "0",
+        "translation": ["o"]
+    }
+]
